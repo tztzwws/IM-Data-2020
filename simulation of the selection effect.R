@@ -1,5 +1,5 @@
 ##############################################
-### WAM Training Section5
+### Simulation of the selection effect
 ##############################################
 
 
@@ -7,9 +7,6 @@
 
 library("dplyr")
 library("ggplot2")
-
-setwd("C:/LMU OneDrive/OneDrive - lmu.edu/Training_WAM")
-
 
 #### Generate Cadidate Pool ####
 # generate Leadership Score
